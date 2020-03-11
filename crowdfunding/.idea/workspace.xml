@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13b0ca81-fcf9-43dd-abe6-33d54aa730e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHne1ZiFOg2tBl3XY9D511j74A" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crowdfundingServer" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\user" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\detail" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\home" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\user" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\details" />
+      <recent name="F:\GraduationProject\practice\crowdfunding\src\pages\home" />
+      <recent name="F:\GraduationProject\CrowdFunding\crowdfunding\src" />
+      <recent name="F:\GraduationProject\CrowdFunding\test\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="abc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/crowdfunding/test/src/abc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.abc.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b0ca81-fcf9-43dd-abe6-33d54aa730e3" name="Default Changelist" comment="" />
+      <created>1576918979456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576918979456</updated>
+      <workItem from="1576918981743" duration="6039000" />
+      <workItem from="1576925325419" duration="420000" />
+      <workItem from="1576939591497" duration="384000" />
+      <workItem from="1576940005986" duration="1381000" />
+      <workItem from="1576942032871" duration="621000" />
+      <workItem from="1576973779452" duration="626000" />
+      <workItem from="1577062353927" duration="10963000" />
+      <workItem from="1577077112965" duration="3561000" />
+      <workItem from="1577093840910" duration="4552000" />
+      <workItem from="1577154504777" duration="3000000" />
+      <workItem from="1577188804352" duration="1435000" />
+      <workItem from="1577190461021" duration="1974000" />
+      <workItem from="1577424035990" duration="1915000" />
+      <workItem from="1577426660925" duration="2182000" />
+      <workItem from="1577447300146" duration="148000" />
+      <workItem from="1577448617177" duration="2749000" />
+      <workItem from="1578040614122" duration="1367000" />
+      <workItem from="1578287168048" duration="659000" />
+      <workItem from="1578314284814" duration="341000" />
+      <workItem from="1578314844124" duration="45000" />
+      <workItem from="1578704109284" duration="25000" />
+      <workItem from="1578705552374" duration="107000" />
+      <workItem from="1578705904475" duration="14000" />
+      <workItem from="1578707077082" duration="10000" />
+      <workItem from="1578707252062" duration="22000" />
+      <workItem from="1578707853442" duration="54000" />
+      <workItem from="1578709926735" duration="2169000" />
+      <workItem from="1578792158303" duration="2945000" />
+      <workItem from="1578795576037" duration="4483000" />
+      <workItem from="1578963504977" duration="10804000" />
+      <workItem from="1578996548190" duration="10375000" />
+      <workItem from="1579056452564" duration="7744000" />
+      <workItem from="1579177761638" duration="1398000" />
+      <workItem from="1579179176839" duration="4495000" />
+      <workItem from="1579187686478" duration="1911000" />
+      <workItem from="1579190932876" duration="31000" />
+      <workItem from="1579222805613" duration="69000" />
+      <workItem from="1579223758136" duration="634000" />
+      <workItem from="1579418594159" duration="523000" />
+      <workItem from="1580383377437" duration="33000" />
+      <workItem from="1580386159768" duration="2774000" />
+      <workItem from="1580432805109" duration="11274000" />
+      <workItem from="1580456349497" duration="34000" />
+      <workItem from="1580458033048" duration="3207000" />
+      <workItem from="1580519558744" duration="9029000" />
+      <workItem from="1580545573503" duration="13426000" />
+      <workItem from="1580606134695" duration="11050000" />
+      <workItem from="1580657289503" duration="856000" />
+      <workItem from="1580692393997" duration="14821000" />
+      <workItem from="1580780607417" duration="11034000" />
+      <workItem from="1580814619874" duration="8039000" />
+      <workItem from="1580865541750" duration="1179000" />
+      <workItem from="1580971252415" duration="600000" />
+      <workItem from="1581150368842" duration="697000" />
+      <workItem from="1581249967696" duration="6594000" />
+      <workItem from="1581305107421" duration="12283000" />
+      <workItem from="1581393826811" duration="14086000" />
+      <workItem from="1581471427878" duration="16082000" />
+      <workItem from="1581496916973" duration="9508000" />
+      <workItem from="1581518938990" duration="1393000" />
+      <workItem from="1581843277623" duration="4590000" />
+      <workItem from="1581859417201" duration="2937000" />
+      <workItem from="1582184293641" duration="2115000" />
+      <workItem from="1582718964124" duration="1357000" />
+      <workItem from="1582721899311" duration="30000" />
+      <workItem from="1583297917175" duration="2488000" />
+      <workItem from="1583304665927" duration="1412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/home/index.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

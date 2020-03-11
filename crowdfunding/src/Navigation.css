@@ -1,0 +1,18 @@
+.boxTitle{
+    margin-top: 30px;
+    text-align: center;
+}
+.txtTitle{
+    font-size: 25px;
+    font-weight: bold;
+}
+.txtSecTitle{
+    position: relative;
+    left: 10%;
+}
+.boxCard{
+    margin-left: 50px;
+}
+.Navigation{
+    text-align: center;
+}
