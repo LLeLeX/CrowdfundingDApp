@@ -3,7 +3,7 @@ Crowdfunding DApp Based on Node JS and Ethereum
 
 # 概述
 
-区块链众筹DApp基于Node JS和以太坊平台。使用React框架开发客户端，Express框架开发服务器，Solidity开发智能合约。
+区块链众筹DApp基于Node JS和以太坊平台。使用React框架开发客户端，Express框架开发服务器，Solidity开发智能合约，并借助MetaMask以太坊钱包完成转账交易。
 
 # 功能
 
@@ -11,8 +11,6 @@ Crowdfunding DApp Based on Node JS and Ethereum
 * 项目跟投模块
 * 资金去向模块
 * 付款请求模块
-
-![付款请求投票机制示意图](C:\Users\Lenovo\Desktop\毕设论文&数据\绘图\付款请求 - 副本.jpg)
 
 # 运行
 
@@ -43,7 +41,3 @@ node server
 | Express    | 4.16.4         |
 
 
-
-![主页](C:\Users\Lenovo\Desktop\毕设论文&数据\绘图\主页.png)
-
-<img src="C:\Users\Lenovo\Desktop\毕设论文&amp;数据\绘图\项目详情.png" alt="项目详情" style="zoom:67%;" />
